@@ -1,0 +1,13 @@
+.bg-container {
+  background: url("./bg.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  margin: 100px;
+}

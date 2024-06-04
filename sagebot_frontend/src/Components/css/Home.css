@@ -1,0 +1,21 @@
+.container-folder {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  margin: 10px;
+  cursor: pointer;
+  width: 100px;
+}
+.container-folder:hover {
+  border: 1px solid rgb(34, 34, 34);
+}
+.main-bg {
+  background: url("../../bg.svg");
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
